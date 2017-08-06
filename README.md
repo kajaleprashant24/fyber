@@ -1,8 +1,8 @@
-# fyber
+# README
 
 To Run the test cases follow the steps:-
-1.Extract the project to a directory.
-2.cd to project directory.
+/n1.Extract the project to a directory.
+/n2.cd to project directory.
 3.run following command from cmd:-
 mvn clean test 
 
