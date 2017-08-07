@@ -12,10 +12,9 @@ This tests are configured to run on firefox,chrome and IE. Execution is tested o
 Result will be generated under target->surefire-reports->Exercise suite   
 
 **Note:-**  
-1.Source for test can be found under:- src/test/java  
-2.package **com.fyber.selenium.test.suite** has test case/suite implementation  
-3.package **com.fyber.selenium.test.base** has implementation specific to application pages/functionality.  
-4.package **com.fyber.selenium.webdriver.base** has implementation specific to webdriver like initialising webdriver instance etc.  
+1.package **com.fyber.selenium.test.suite** has test case/suite implementation  
+2.package **com.fyber.selenium.test.base** has implementation specific to application pages/functionality.  
+3.package **com.fyber.selenium.webdriver.base** has implementation specific to webdriver like initialising webdriver instance etc.  
 
 Refer **com.fyber.selenium.test.suite.AssignmentTestSuite.java** for Test case implementation  
 Refer **com.fyber.selenium.test.base.Home.java** for Page Object Implementation for app  
