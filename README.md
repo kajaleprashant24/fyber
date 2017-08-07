@@ -10,7 +10,7 @@ By default this tests will run on chrome browser.
 This tests can be configured to run on firefox,chrome and IE. Execution is tested on Windows machine against Firefox 54 browser.
   
   
-Result will be generated under target->surefire-reports->Exercise suite   
+**Result** will be generated under **target->surefire-reports->Exercise suite**   
 
 **Note:-**  
 1.package **com.fyber.selenium.test.suite** has test case/suite implementation  
