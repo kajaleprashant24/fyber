@@ -1,8 +1,8 @@
 # README
 
 To Run the test cases follow the steps:-
-/n1.Extract the project to a directory.
-/n2.cd to project directory.
+1.Extract the project to a directory.  Enter
+2.cd to project directory.  Enter
 3.run following command from cmd:-
 mvn clean test 
 
