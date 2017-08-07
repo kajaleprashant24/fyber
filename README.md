@@ -1,7 +1,7 @@
 # README
 
 To Run the test cases follow the steps:-  
-1.Extract the project to a directory.  
+1.Clone the project to a directory.  
 2.cd to project directory.  
 3.run following command from cmd:-  
  **mvn clean test**  
@@ -11,13 +11,13 @@ This tests are configured to run on firefox,chrome and IE. Execution is tested o
   
 Result will be generated under target->surefire-reports->Exercise suite   
 
-Note:-  
+**Note:-**  
 1.Source for test can be found under:- src/test/java  
-2.package com.fyber.selenium.test.suite has test case/suite implementation  
-3.package com.fyber.selenium.test.base has implementation specific to application pages/functionality.  
-4.package com.fyber.selenium.webdriver.base has implementation specific to webdriver like initialising webdriver instance etc.  
+2.package **com.fyber.selenium.test.suite** has test case/suite implementation  
+3.package **com.fyber.selenium.test.base** has implementation specific to application pages/functionality.  
+4.package **com.fyber.selenium.webdriver.base** has implementation specific to webdriver like initialising webdriver instance etc.  
 
-Refer com.fyber.selenium.test.suite.AssignmentTestSuite.java for Test case implementation  
-Refer com.fyber.selenium.test.base.Home.java for Page Object Implementation for app  
+Refer **com.fyber.selenium.test.suite.AssignmentTestSuite.java** for Test case implementation  
+Refer **com.fyber.selenium.test.base.Home.java** for Page Object Implementation for app  
 
 
