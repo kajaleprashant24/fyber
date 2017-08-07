@@ -1,10 +1,10 @@
 # README
 
 To Run the test cases follow the steps:-
-1.Extract the project to a directory.  Enter
-2.cd to project directory.  Enter
+1.Extract the project to a directory.  
+2.cd to project directory.  
 3.run following command from cmd:-
-mvn clean test 
+#mvn clean test 
 
 Total test scenarios executed will be 19.
 
