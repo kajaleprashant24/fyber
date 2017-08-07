@@ -6,7 +6,8 @@ To Run the test cases follow the steps:-
 3.run following command from cmd:-  
  **mvn clean test**  
  
-This tests are configured to run on firefox,chrome and IE. Execution is tested on Windows machine against Firefox 54 browser.
+By default this tests will run on chrome browser.
+This tests can be configured to run on firefox,chrome and IE. Execution is tested on Windows machine against Firefox 54 browser.
   
   
 Result will be generated under target->surefire-reports->Exercise suite   
